@@ -1,5 +1,5 @@
 # demography-gb-fr
-This repo contains the source code of my project that I carried out during my academic experience at the University of Bologna.
+This repo contains the source code of my project carried out during my academic experience at the University of Bologna.
 
 The aim of the project is to conduct a comparative analysis on the evolution of mortality and life expectancy in Great Britain and France, considering historical data from 1922 to 2018.
 
