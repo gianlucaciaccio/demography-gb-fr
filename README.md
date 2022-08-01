@@ -17,6 +17,6 @@ The analysis is structured in two steps:
   - Log death rates by age and time of the two countries
   - Life expectancy at birth total and by sex
   - Mortality tables and $e_x$ curves
-  - Survival curves ($l_x$), [rectangularization](https://journals.library.ualberta.ca/csp/index.php/csp/article/download/15700/12505) and death curves ($d_x$) by age, sex and years
+  - Survival curves ( $l_x$ ), [rectangularization](https://journals.library.ualberta.ca/csp/index.php/csp/article/download/15700/12505) and death curves ( $d_x$ ) by age, sex and years
 
 - Forecasting of global and gender mortality rates with [Lee-Carter model](http://pagesperso.univ-brest.fr/~ailliot/doc_cours/M1EURIA/regression/leecarter.pdf) (from 2019 to 2050)
